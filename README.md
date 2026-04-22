@@ -22,13 +22,13 @@ Este projeto apresenta um pipeline completo de ciência de dados — desde a col
 * **Ambiente:** Jupyter Notebook / Google Colab
 
 ## 📂 Estrutura do Notebook
-1. **Seção 1: Coleta de Dados:** Implementação do scraper para a Bundesliga e outras ligas, cobrindo as últimas 10 temporadas.
-2. **Seção 2: Pré-processamento:** Tratamento de valores ausentes e formatação de datas e indicadores de odds.
-3. **Seção 3: Análise Exploratória (EDA):** Visualização da distribuição de resultados (Home/Draw/Away) e evolução das odds.
-4. **Seção 4: Clusterização e Distâncias:** Cálculo de matrizes de distância entre ligas e geração de grafos de similaridade.
-5. **Seção 5: Resultados e Outliers:** Identificação das top 5 ligas mais semelhantes e das ligas mais distintas em termos de comportamento de mercado.
+1. **Coleta de Dados:** Implementação do scraper para a Bundesliga e outras ligas, cobrindo as últimas 10 temporadas.
+2. **Pré-processamento:** Tratamento de valores ausentes e formatação de datas e indicadores de odds.
+3. **Análise Exploratória (EDA):** Visualização da distribuição de resultados (Home/Draw/Away) e evolução das odds.
+4. **Clusterização e Distâncias:** Cálculo de matrizes de distância entre ligas e geração de grafos de similaridade.
+5. **Resultados e Outliers:** Identificação das top 5 ligas mais semelhantes e das ligas mais distintas em termos de comportamento de mercado.
 
 ## 🚀 Como Executar
 1. Clone este repositório ou baixe o arquivo `.ipynb`.
 2. Certifique-se de ter o Python 3.8+ instalado.
-3. Instale as dependências necessárias:
+3. Instale as dependências necessárias.
